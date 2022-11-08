@@ -12,3 +12,5 @@
 
 - Английский для IT https://github.com/biggdogg32one/biggdogg32one/blob/main/English%20IT.pdf
 - HTML и CSS для QA https://github.com/biggdogg32one/biggdogg32one/blob/main/HTML%20and%20CSS%20for%20QA.pdf
+
+theme:leap-day
